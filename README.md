@@ -88,10 +88,9 @@ I'm **Asad Mughal**, a passionate **Full-Stack Developer** with expertise in mod
 
 I'm always interested in collaborating on exciting projects and learning new technologies. Feel free to reach out!
 
-- 📧 Email: [Your Email Here]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Portfolio Website]
-- 📝 Blog: [Your Blog]
+- 📧 Email: virtualasadullah@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/masadmughal/](https://www.linkedin.com/in/masadmughal/)
+- 🌐 Portfolio: [Coming Soon]
 
 ---
 
